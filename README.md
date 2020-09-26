@@ -1,0 +1,2 @@
+# centos8
+appStream
